@@ -1,4 +1,4 @@
-# Lumen
+# AI Chat
 
 A calm, fast AI chat application with streaming responses, voice input, and a liquid-glass UI.
 
