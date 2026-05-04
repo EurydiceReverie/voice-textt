@@ -1,6 +1,6 @@
 # AI Chat
 
-A calm, fast AI chat application with streaming responses, voice input, and a liquid-glass UI.
+A calm, fast AI chat application with streaming responses, voice input.
 
 ## Features
 
@@ -14,7 +14,7 @@ A calm, fast AI chat application with streaming responses, voice input, and a li
 
 ## Tech Stack
 
-- **Frontend:** React 19, TypeScript, Tailwind CSS, shadcn/ui
+- **Frontend:** React 19, TypeScript, Tailwind CSS
 - **Backend:** Hono (lightweight server for API proxying)
 - **AI:** Groq API with Llama 3.3 70B
 - **Build:** Vite, Bun (optional)
